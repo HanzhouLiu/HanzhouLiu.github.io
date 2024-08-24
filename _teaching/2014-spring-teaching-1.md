@@ -8,4 +8,3 @@ date: 2024
 location: "College Station, USA"
 ---
 
-Three-year experience in teaching \textbf{C}, \textbf{Assembly} and \textbf{Verilog} programming.
