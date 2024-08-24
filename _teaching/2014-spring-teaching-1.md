@@ -3,18 +3,9 @@ title: "Teaching Assistant for Computer Architecture and Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Texas A&M, ECEN"
+venue: "Texas A&M, Department of Electrical & Computer Engineering"
 date: 2021-08-30 - Present
 location: "College Station, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Three-year experience in teaching \textbf{C}, \textbf{Assembly} and \textbf{Verilog} programming.
